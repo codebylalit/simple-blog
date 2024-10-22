@@ -5,7 +5,7 @@ import Pagination from "../component/pagination";
 const Home = () => {
   const [posts, setPosts] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const postsPerPage = 9; // Show 5 posts per page
+  const postsPerPage = 9; 
 
   // Get current posts
   const indexOfLastPost = currentPage * postsPerPage;
@@ -37,7 +37,7 @@ const Home = () => {
               <img
                 src={post.image}
                 alt={post.title}
-                className="w-32 h-32 rounded-md text-white mr-4 object-cover" // Added object-cover for better image display
+                className="w-32 h-32 rounded-md text-white mr-4 object-cover" 
               />
               <div className="flex-1">
                 <h2 className="text-xl font-semibold text-white mb-2">
@@ -53,7 +53,7 @@ const Home = () => {
         totalPosts={posts.length}
         postsPerPage={postsPerPage}
         paginate={paginate}
-        currentPage={currentPage} // Pass the current page
+        currentPage={currentPage} 
       />
     </div>
   );

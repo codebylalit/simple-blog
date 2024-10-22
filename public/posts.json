@@ -5,7 +5,16 @@
     "excerpt": "A comprehensive guide to understanding and using hooks in React.",
     "content": "React Hooks are functions that let you use state and other React features without writing a class. They are a new addition in React 16.8.",
     "image": "https://images.pexels.com/photos/1181468/pexels-photo-1181468.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Jack",
+        "content": "Great explanation of hooks! I love how they simplify state management."
+      },
+      {
+        "author": "Sam",
+        "content": "Thanks for this guide! I just started using hooks in my projects."
+      }
+    ]
   },
   {
     "id": 2,
@@ -13,7 +22,16 @@
     "excerpt": "Explore the new features introduced in JavaScript ES2022.",
     "content": "JavaScript ES2022 introduces several exciting features like top-level await and class fields that simplify coding.",
     "image": "https://images.pexels.com/photos/1181466/pexels-photo-1181466.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Charlie",
+        "content": "The top-level await feature is a game changer!"
+      },
+      {
+        "author": "Diana",
+        "content": "I can't wait to try out the new class fields."
+      }
+    ]
   },
   {
     "id": 3,
@@ -21,7 +39,16 @@
     "excerpt": "When to use CSS Grid over Flexbox and vice versa.",
     "content": "CSS Grid and Flexbox are both powerful layout tools. Learn how to choose between them based on your layout needs.",
     "image": "https://images.pexels.com/photos/1181689/pexels-photo-1181689.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Eve",
+        "content": "Excellent breakdown! I often confuse when to use which."
+      },
+      {
+        "author": "Frank",
+        "content": "CSS Grid has made my layouts so much easier."
+      }
+    ]
   },
   {
     "id": 4,
@@ -29,7 +56,16 @@
     "excerpt": "A beginner's guide to getting started with TypeScript.",
     "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It helps catch errors early in the development process.",
     "image": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Grace",
+        "content": "This guide is perfect for beginners! Thanks!"
+      },
+      {
+        "author": "Heidi",
+        "content": "TypeScript has really improved my coding."
+      }
+    ]
   },
   {
     "id": 5,
@@ -37,7 +73,16 @@
     "excerpt": "Learn how to create RESTful APIs using Node.js and Express.",
     "content": "REST APIs are a crucial part of modern web applications. This guide covers the essentials of building them with Node.js.",
     "image": "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Ivy",
+        "content": "Really helpful! I’m starting a project that needs a REST API."
+      },
+      {
+        "author": "Jack",
+        "content": "Node.js is such a powerful tool for backend development."
+      }
+    ]
   },
   {
     "id": 6,
@@ -45,7 +90,16 @@
     "excerpt": "An introduction to GraphQL and its advantages over REST.",
     "content": "GraphQL is a query language for APIs that allows clients to request exactly the data they need.",
     "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Kathy",
+        "content": "I prefer GraphQL over REST for flexibility."
+      },
+      {
+        "author": "Leo",
+        "content": "This article helped me understand GraphQL better."
+      }
+    ]
   },
   {
     "id": 7,
@@ -53,7 +107,16 @@
     "excerpt": "Predictions for the future of web technologies and frameworks.",
     "content": "With the rapid evolution of technology, the future of web development looks exciting. This article discusses upcoming trends.",
     "image": "https://images.pexels.com/photos/1181656/pexels-photo-1181656.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Mia",
+        "content": "Excited to see where web development is headed!"
+      },
+      {
+        "author": "Noah",
+        "content": "Great insights! I hope to adapt to these trends."
+      }
+    ]
   },
   {
     "id": 8,
@@ -61,7 +124,16 @@
     "excerpt": "A deep dive into asynchronous programming in JavaScript.",
     "content": "Asynchronous JavaScript allows for non-blocking operations, enabling smoother applications. Learn about callbacks, promises, and async/await.",
     "image": "https://images.pexels.com/photos/1181665/pexels-photo-1181665.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Olivia",
+        "content": "Asynchronous JavaScript can be confusing, but this article clarifies a lot."
+      },
+      {
+        "author": "Paul",
+        "content": "Thanks for explaining callbacks and promises!"
+      }
+    ]
   },
   {
     "id": 9,
@@ -69,7 +141,16 @@
     "excerpt": "A guide to creating animations with CSS for beginners.",
     "content": "CSS animations can enhance the user experience. This guide covers basic concepts and examples to get you started.",
     "image": "https://images.pexels.com/photos/1181688/pexels-photo-1181688.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Quinn",
+        "content": "I love using animations to improve UX!"
+      },
+      {
+        "author": "Rita",
+        "content": "Great examples! Can't wait to try these animations out."
+      }
+    ]
   },
   {
     "id": 10,
@@ -77,7 +158,16 @@
     "excerpt": "Learn how to use Git and GitHub effectively for version control.",
     "content": "Git and GitHub are essential tools for modern developers. This article walks you through the basics of version control.",
     "image": "https://images.pexels.com/photos/1181653/pexels-photo-1181653.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Sam",
+        "content": "Git is a bit daunting at first, but so useful!"
+      },
+      {
+        "author": "Tina",
+        "content": "Thank you for this comprehensive guide!"
+      }
+    ]
   },
   {
     "id": 11,
@@ -85,7 +175,16 @@
     "excerpt": "An introduction to building Progressive Web Apps (PWAs).",
     "content": "PWAs combine the best of web and mobile apps. Learn how to create apps that offer offline access and push notifications.",
     "image": "https://images.pexels.com/photos/1181655/pexels-photo-1181655.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Uma",
+        "content": "PWAs are the future! Excited to learn more."
+      },
+      {
+        "author": "Vera",
+        "content": "Great introduction! I want to implement PWAs in my projects."
+      }
+    ]
   },
   {
     "id": 12,
@@ -93,7 +192,16 @@
     "excerpt": "Learn how to write tests for your JavaScript code using Jest.",
     "content": "Jest is a delightful JavaScript testing framework. This guide will help you set up testing in your JavaScript applications.",
     "image": "https://images.pexels.com/photos/1181664/pexels-photo-1181664.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Will",
+        "content": "Jest makes testing so much easier!"
+      },
+      {
+        "author": "Xena",
+        "content": "Thanks for the tips on writing tests!"
+      }
+    ]
   },
   {
     "id": 13,
@@ -101,62 +209,49 @@
     "excerpt": "Techniques and tools for building responsive web designs.",
     "content": "Responsive web design ensures your site looks great on all devices. Learn the principles and best practices.",
     "image": "https://images.pexels.com/photos/1181663/pexels-photo-1181663.jpeg",
-    "comments": []
+    "comments": [
+      {
+        "author": "Yara",
+        "content": "Responsive design is essential these days!"
+      },
+      {
+        "author": "Zara",
+        "content": "Thank you for sharing these techniques!"
+      }
+    ]
   },
   {
     "id": 14,
     "title": "Web Accessibility Best Practices",
-    "excerpt": "How to make your websites accessible to everyone.",
-    "content": "Accessibility is crucial for web development. This article outlines best practices for creating inclusive web experiences.",
-    "image": "https://images.pexels.com/photos/1181654/pexels-photo-1181654.jpeg",
-    "comments": []
+    "excerpt": "Learn about the importance of accessibility in web development.",
+    "content": "Web accessibility ensures that all users, including those with disabilities, can access and navigate your website.",
+    "image": "https://images.pexels.com/photos/1181662/pexels-photo-1181662.jpeg",
+    "comments": [
+      {
+        "author": "Alice",
+        "content": "Accessibility is so important, thanks for raising awareness!"
+      },
+      {
+        "author": "Bob",
+        "content": "I appreciate this guide on making websites accessible."
+      }
+    ]
   },
   {
     "id": 15,
-    "title": "Introduction to Docker",
-    "excerpt": "Learn the basics of Docker and how to use it in your projects.",
-    "content": "Docker simplifies the development and deployment of applications. This guide introduces you to containerization.",
-    "image": "https://images.pexels.com/photos/1181652/pexels-photo-1181652.jpeg",
-    "comments": []
-  },
-  {
-    "id": 16,
-    "title": "The Science of Happiness",
-    "excerpt": "Exploring the psychological and physiological aspects of happiness and how to achieve it.",
-    "content": "Happiness is not just a fleeting emotion; it is a complex state of well-being that involves our thoughts, feelings, and behaviors.",
-    "image": "https://images.pexels.com/photos/5935790/pexels-photo-5935790.jpeg",
-    "comments": []
-  },
-  {
-    "id": 17,
-    "title": "CSS Grid vs Flexbox",
-    "excerpt": "When to use CSS Grid over Flexbox and vice versa.",
-    "content": "CSS Grid and Flexbox are both powerful layout tools. Learn how to choose between them based on your layout needs.",
-    "image": "https://images.pexels.com/photos/1181689/pexels-photo-1181689.jpeg",
-    "comments": []
-  },
-  {
-    "id": 18,
-    "title": "Introduction to TypeScript",
-    "excerpt": "A beginner's guide to getting started with TypeScript.",
-    "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It helps catch errors early in the development process.",
-    "image": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg",
-    "comments": []
-  },
-  {
-    "id": 19,
-    "title": "Creating Responsive Web Design",
-    "excerpt": "Techniques and tools for building responsive web designs.",
-    "content": "Responsive web design ensures your site looks great on all devices. Learn the principles and best practices.",
-    "image": "https://images.pexels.com/photos/1181663/pexels-photo-1181663.jpeg",
-    "comments": []
-  },
-  {
-    "id": 20,
-    "title": "Web Accessibility Best Practices",
-    "excerpt": "How to make your websites accessible to everyone.",
-    "content": "Accessibility is crucial for web development. This article outlines best practices for creating inclusive web experiences.",
-    "image": "https://images.pexels.com/photos/1181654/pexels-photo-1181654.jpeg",
-    "comments": []
+    "title": "Exploring the MERN Stack",
+    "excerpt": "A guide to building full-stack applications using the MERN stack.",
+    "content": "The MERN stack combines MongoDB, Express.js, React, and Node.js for powerful web development. This article explores its benefits.",
+    "image": "https://images.pexels.com/photos/1181661/pexels-photo-1181661.jpeg",
+    "comments": [
+      {
+        "author": "Charlie",
+        "content": "MERN stack is fantastic for full-stack development!"
+      },
+      {
+        "author": "Diana",
+        "content": "Great overview! I want to dive deeper into each technology."
+      }
+    ]
   }
 ]

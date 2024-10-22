@@ -28,6 +28,16 @@ const PostDetails = () => {
         {post.title}
       </h2>
       <p className="text-gray-600">{post.content}</p>
+      <div className="mt-4">
+        <h3 className="font-semibold text-gray-700">Comments:</h3>
+        <ul className="list-inside list-none ">
+          {post.comments.map((comment) => (
+            <li key={comment.id} className="text-gray-600">
+              <strong>{comment.author}:</strong> {comment.content}
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 };

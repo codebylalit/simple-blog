@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Hooks",
+    "excerpt": "A comprehensive guide to understanding and using hooks in React.",
+    "content": "React Hooks are functions that let you use state and other React features without writing a class. They are a new addition in React 16.8.",
+    "image": "https://images.pexels.com/photos/1181468/pexels-photo-1181468.jpeg",
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "JavaScript ES2022 Features",
+    "excerpt": "Explore the new features introduced in JavaScript ES2022.",
+    "content": "JavaScript ES2022 introduces several exciting features like top-level await and class fields that simplify coding.",
+    "image": "https://images.pexels.com/photos/1181466/pexels-photo-1181466.jpeg",
+    "comments": []
+  },
+  {
+    "id": 3,
+    "title": "CSS Grid vs Flexbox",
+    "excerpt": "When to use CSS Grid over Flexbox and vice versa.",
+    "content": "CSS Grid and Flexbox are both powerful layout tools. Learn how to choose between them based on your layout needs.",
+    "image": "https://images.pexels.com/photos/1181689/pexels-photo-1181689.jpeg",
+    "comments": []
+  },
+  {
+    "id": 4,
+    "title": "Introduction to TypeScript",
+    "excerpt": "A beginner's guide to getting started with TypeScript.",
+    "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It helps catch errors early in the development process.",
+    "image": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "title": "Building REST APIs with Node.js",
+    "excerpt": "Learn how to create RESTful APIs using Node.js and Express.",
+    "content": "REST APIs are a crucial part of modern web applications. This guide covers the essentials of building them with Node.js.",
+    "image": "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg",
+    "comments": []
+  },
+  {
+    "id": 6,
+    "title": "Getting Started with GraphQL",
+    "excerpt": "An introduction to GraphQL and its advantages over REST.",
+    "content": "GraphQL is a query language for APIs that allows clients to request exactly the data they need.",
+    "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg",
+    "comments": []
+  },
+  {
+    "id": 7,
+    "title": "The Future of Web Development",
+    "excerpt": "Predictions for the future of web technologies and frameworks.",
+    "content": "With the rapid evolution of technology, the future of web development looks exciting. This article discusses upcoming trends.",
+    "image": "https://images.pexels.com/photos/1181656/pexels-photo-1181656.jpeg",
+    "comments": []
+  },
+  {
+    "id": 8,
+    "title": "Understanding Asynchronous JavaScript",
+    "excerpt": "A deep dive into asynchronous programming in JavaScript.",
+    "content": "Asynchronous JavaScript allows for non-blocking operations, enabling smoother applications. Learn about callbacks, promises, and async/await.",
+    "image": "https://images.pexels.com/photos/1181665/pexels-photo-1181665.jpeg",
+    "comments": []
+  },
+  {
+    "id": 9,
+    "title": "CSS Animations for Beginners",
+    "excerpt": "A guide to creating animations with CSS for beginners.",
+    "content": "CSS animations can enhance the user experience. This guide covers basic concepts and examples to get you started.",
+    "image": "https://images.pexels.com/photos/1181688/pexels-photo-1181688.jpeg",
+    "comments": []
+  },
+  {
+    "id": 10,
+    "title": "Mastering Git and GitHub",
+    "excerpt": "Learn how to use Git and GitHub effectively for version control.",
+    "content": "Git and GitHub are essential tools for modern developers. This article walks you through the basics of version control.",
+    "image": "https://images.pexels.com/photos/1181653/pexels-photo-1181653.jpeg",
+    "comments": []
+  },
+  {
+    "id": 11,
+    "title": "Building Progressive Web Apps",
+    "excerpt": "An introduction to building Progressive Web Apps (PWAs).",
+    "content": "PWAs combine the best of web and mobile apps. Learn how to create apps that offer offline access and push notifications.",
+    "image": "https://images.pexels.com/photos/1181655/pexels-photo-1181655.jpeg",
+    "comments": []
+  },
+  {
+    "id": 12,
+    "title": "Testing in JavaScript with Jest",
+    "excerpt": "Learn how to write tests for your JavaScript code using Jest.",
+    "content": "Jest is a delightful JavaScript testing framework. This guide will help you set up testing in your JavaScript applications.",
+    "image": "https://images.pexels.com/photos/1181664/pexels-photo-1181664.jpeg",
+    "comments": []
+  },
+  {
+    "id": 13,
+    "title": "Creating Responsive Web Design",
+    "excerpt": "Techniques and tools for building responsive web designs.",
+    "content": "Responsive web design ensures your site looks great on all devices. Learn the principles and best practices.",
+    "image": "https://images.pexels.com/photos/1181663/pexels-photo-1181663.jpeg",
+    "comments": []
+  },
+  {
+    "id": 14,
+    "title": "Web Accessibility Best Practices",
+    "excerpt": "How to make your websites accessible to everyone.",
+    "content": "Accessibility is crucial for web development. This article outlines best practices for creating inclusive web experiences.",
+    "image": "https://images.pexels.com/photos/1181654/pexels-photo-1181654.jpeg",
+    "comments": []
+  },
+  {
+    "id": 15,
+    "title": "Introduction to Docker",
+    "excerpt": "Learn the basics of Docker and how to use it in your projects.",
+    "content": "Docker simplifies the development and deployment of applications. This guide introduces you to containerization.",
+    "image": "https://images.pexels.com/photos/1181652/pexels-photo-1181652.jpeg",
+    "comments": []
+  },
+  {
+    "id": 16,
+    "title": "The Science of Happiness",
+    "excerpt": "Exploring the psychological and physiological aspects of happiness and how to achieve it.",
+    "content": "Happiness is not just a fleeting emotion; it is a complex state of well-being that involves our thoughts, feelings, and behaviors.",
+    "image": "https://images.pexels.com/photos/5935790/pexels-photo-5935790.jpeg",
+    "comments": []
+  },
+  {
+    "id": 17,
+    "title": "CSS Grid vs Flexbox",
+    "excerpt": "When to use CSS Grid over Flexbox and vice versa.",
+    "content": "CSS Grid and Flexbox are both powerful layout tools. Learn how to choose between them based on your layout needs.",
+    "image": "https://images.pexels.com/photos/1181689/pexels-photo-1181689.jpeg",
+    "comments": []
+  },
+  {
+    "id": 18,
+    "title": "Introduction to TypeScript",
+    "excerpt": "A beginner's guide to getting started with TypeScript.",
+    "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It helps catch errors early in the development process.",
+    "image": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg",
+    "comments": []
+  },
+  {
+    "id": 19,
+    "title": "Creating Responsive Web Design",
+    "excerpt": "Techniques and tools for building responsive web designs.",
+    "content": "Responsive web design ensures your site looks great on all devices. Learn the principles and best practices.",
+    "image": "https://images.pexels.com/photos/1181663/pexels-photo-1181663.jpeg",
+    "comments": []
+  },
+  {
+    "id": 20,
+    "title": "Web Accessibility Best Practices",
+    "excerpt": "How to make your websites accessible to everyone.",
+    "content": "Accessibility is crucial for web development. This article outlines best practices for creating inclusive web experiences.",
+    "image": "https://images.pexels.com/photos/1181654/pexels-photo-1181654.jpeg",
+    "comments": []
+  }
+]
